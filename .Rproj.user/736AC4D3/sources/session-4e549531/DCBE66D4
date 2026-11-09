@@ -1,27 +1,27 @@
 {
-    "id": "3C0C712D",
-    "path": "~/GitHub/metnum-2026/README.md",
-    "project_path": "README.md",
-    "type": "markdown",
+    "id": "DCBE66D4",
+    "path": "~/GitHub/metnum-2026/backward-difference.R",
+    "project_path": "backward-difference.R",
+    "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1793276634129.0,
+    "created": 1794187492882.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,7",
-        "scrollLine": "2"
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1793276485,
+    "lastKnownWriteTime": 1794187652,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1793276485,
+    "last_content_update": 1794187652354,
     "read_only": false,
     "read_only_alternatives": []
 }

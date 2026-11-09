@@ -1,3 +1,4 @@
+# newto-raghson
 f <- function(x) {
   x^2 - 2
 }
